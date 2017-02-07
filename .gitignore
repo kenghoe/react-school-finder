@@ -1,0 +1,9 @@
+# exclude everything except directory foo/bar
+/*
+!package.json
+!.gitignore
+!bower.json
+!gulpfile.js
+!app
+!server
+
